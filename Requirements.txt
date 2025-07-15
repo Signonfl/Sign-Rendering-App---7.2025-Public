@@ -1,3 +1,0 @@
-streamlit
-pillow
-streamlit-drawable-canvas
